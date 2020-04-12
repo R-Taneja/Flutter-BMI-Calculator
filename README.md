@@ -12,6 +12,7 @@ A cross-platform Flutter app that calculates your body mass index (BMI).
 8. When Android Studio opens the project, click "Get dependencies" and wait for it to load.
 9. Follow [these instructions](https://flutter.dev/docs/get-started/test-drive) (under the "Run the app" header) to run the app on a virtual device.
 
-## Screenshot
-![screenshot](https://user-images.githubusercontent.com/47066511/65378090-f624a780-dc81-11e9-94a4-cdb022bd7dad.png)
+## Screenshots
+![screenshot1](https://user-images.githubusercontent.com/47066511/79081422-3c5b5a00-7ceb-11ea-86b1-94c56c4a4f16.png)
+![screenshot2](https://user-images.githubusercontent.com/47066511/79081426-3e251d80-7ceb-11ea-8845-d504925d83ba.png)
 
