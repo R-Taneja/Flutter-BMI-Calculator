@@ -1,4 +1,4 @@
-# flutter-bmi
+# BMI Calculator
 A cross-platform Flutter app that calculates your body mass index (BMI).
 
 ## Download Instructions
